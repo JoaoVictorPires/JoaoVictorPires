@@ -10,7 +10,9 @@ Sobre mim
 
 🔎 Também tenho curiosidade sobre Fármacia 💊
 
-No meu tempo livre gosto de [Jogar]
+🆓No meu tempo livre gosto de Jogar 🎮
+
+
 
 <!--
 **JoaoVictorPires/JoaoVictorPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
