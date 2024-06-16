@@ -1,23 +1,23 @@
-## Olá👋, me chamo João Victor
+# Olá👋, me chamo João Victor
 
 Sobre mim
 
 💻 Futuro desenvolvedor [Front-End | Back-End | FullStack]
 
-🎓 Estudo na [Universidade do Vale Do Sapucaí | Univás]
-
 👨‍💼 Atualmente trabalho como [Suporte De T.I] @ [Unicópia]
 
-🔎 Tenho curiosidade sobre Fármacia 💊
+## Interesses
 
-🆓 No meu tempo livre gosto de Jogar 🎮
+⚫ Desenvolvimento Front-End e Back-End
+ 
+⚫ Farmácia e Tecnologia
+ 
+⚫ Jogos e Entretenimento
 
+## Formação
 
-##Interesses
+🎓 Estudo na [Universidade do Vale Do Sapucaí | Univás]
 
- Desenvolvimento Front-End e Back-End
- Farmácia e Tecnologia
- Jogos e Entretenimento
 
 
 <!--
