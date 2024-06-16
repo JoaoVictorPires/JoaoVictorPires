@@ -2,9 +2,10 @@
 
 Sobre mim
 
-Futuro desenvolvedor[Front-End | Back-End | FullStack]
+![image](https://github.com/JoaoVictorPires/JoaoVictorPires/assets/61362665/ad484820-5d0e-467b-9894-1320672dd2e6)
+Futuro desenvolvedor [Front-End | Back-End | FullStack]
 
-Estudo na [Universidade do Vale Do Sapucaí | Univás] [@univas]
+Estudo na [Universidade do Vale Do Sapucaí | Univás]
 <!--
 **JoaoVictorPires/JoaoVictorPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
