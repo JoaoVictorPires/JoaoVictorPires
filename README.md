@@ -2,9 +2,12 @@
 
 Sobre mim
 
-💻: Futuro desenvolvedor [Front-End | Back-End | FullStack]
-🎓: Estudo na [Universidade do Vale Do Sapucaí | Univás]
+💻 Futuro desenvolvedor [Front-End | Back-End | FullStack]
+
+🎓 Estudo na [Universidade do Vale Do Sapucaí | Univás]
+
 👨‍💼 Atualmente trabalho como [Suporte De T.I] @ [Unicópia]
+
 🔎 Também sou curioso sobre a área de Fármacia 💊
 
 <!--
