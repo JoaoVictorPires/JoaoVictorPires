@@ -10,7 +10,7 @@ Sobre mim
 
 🔎 Tenho curiosidade sobre Fármacia 💊
 
-🆓No meu tempo livre gosto de Jogar 🎮
+🆓 No meu tempo livre gosto de Jogar 🎮
 
 
 
