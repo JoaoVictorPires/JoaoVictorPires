@@ -8,7 +8,7 @@ Sobre mim
 
 👨‍💼 Atualmente trabalho como [Suporte De T.I] @ [Unicópia]
 
-🔎 Também tenho curiosidade sobre Fármacia 💊
+🔎 Tenho curiosidade sobre Fármacia 💊
 
 🆓No meu tempo livre gosto de Jogar 🎮
 
