@@ -2,7 +2,7 @@
 
 Sobre mim
 
-file:///C:/Users/João%20Victor/Downloads/favicon_io/favicon-16x16.png Futuro desenvolvedor [Front-End | Back-End | FullStack]
+:computer: Futuro desenvolvedor [Front-End | Back-End | FullStack]
 
 Estudo na [Universidade do Vale Do Sapucaí | Univás]
 <!--
