@@ -1,5 +1,10 @@
-## Hi there 👋
+## Olá👋, me chamo João Victor
 
+Sobre mim
+
+Futuro desenvolvedor[Front-End | Back-End | FullStack]
+
+Estudo na [Universidade do Vale Do Sapucaí | Univás] [@univas]
 <!--
 **JoaoVictorPires/JoaoVictorPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
