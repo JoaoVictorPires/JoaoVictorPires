@@ -13,6 +13,12 @@ Sobre mim
 🆓 No meu tempo livre gosto de Jogar 🎮
 
 
+##Interesses
+
+ Desenvolvimento Front-End e Back-End
+ Farmácia e Tecnologia
+ Jogos e Entretenimento
+
 
 <!--
 **JoaoVictorPires/JoaoVictorPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
