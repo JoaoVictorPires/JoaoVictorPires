@@ -2,13 +2,13 @@
 
 Sobre mim
 
-💻 Futuro desenvolvedor [Front-End | Back-End | FullStack]
+💻 Futuro desenvolvedor.
 
 👨‍💼 Atualmente trabalho como [Suporte De T.I] @ [Unicópia]
 
 ## Interesses
 
-⚫ Desenvolvimento Front-End e Back-End
+⚫ Desenvolvimento FullStack
  
 ⚫ Farmácia e Tecnologia
  
