@@ -32,7 +32,14 @@ Sobre mim
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
+## :100: Classificação:
+![JoaoVictorPires](https://github-readme-stats.vercel.app/api?username=JoaoVictorPires&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=default)
 
+## Visitas no perfil:
+![visitas em perfil](https://profile-counter.glitch.me/JoaoVictorPires/count.svg)
+
+## 🏆 Troféus:
+![troféus](https://github-profile-trophy.vercel.app/?username=JoaoVictorPires&theme=tokyonight&no-frame=true)
 <!--
 **JoaoVictorPires/JoaoVictorPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
