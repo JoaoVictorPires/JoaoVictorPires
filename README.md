@@ -40,6 +40,10 @@ Sobre mim
 
 ## 🏆 Troféus:
 ![troféus](https://github-profile-trophy.vercel.app/?username=JoaoVictorPires&theme=tokyonight&no-frame=true)
+
+
+![GIF](https://github.com/sindresorhus/sindresorhus/blob/main/under-construction.gif)
+
 <!--
 **JoaoVictorPires/JoaoVictorPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
