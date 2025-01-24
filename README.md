@@ -4,7 +4,7 @@ Sobre mim
 
 💻 Futuro desenvolvedor.
 
-👨‍💼 Atualmente trabalho como [AssistenteDe T.I] @ [Midea Carrier]
+👨‍💼 Atualmente trabalho como [AssistenteDe T.I] @ [Midea]
 
 ## Interesses
 
