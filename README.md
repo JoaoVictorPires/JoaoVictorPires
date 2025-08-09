@@ -31,8 +31,8 @@
 ## :100: Classification:
 ![JoaoVictorPires](https://github-readme-stats.vercel.app/api?username=JoaoVictorPires&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=default)
 
-## Profile Visits:
-![Profile Visits](https://profile-counter.glitch.me/JoaoVictorPires/count.svg)
+## Profile visits:
+![visitas em perfil](https://profile-counter.glitch.me/JoaoVictorPires/count.svg)
 
 ## 🏆 Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=JoaoVictorPires&theme=tokyonight&no-frame=true)
